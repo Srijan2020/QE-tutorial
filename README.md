@@ -10,7 +10,7 @@ link: https://seekpath.materialscloud.io/
 - Step 6: Plot the band structure
 
 Plot either using the notebook provided
-Or use the terminal with plotband.x to plot the band structure
+Or use the terminal with plotband.x to plot the band structure (follow during the talk)
 
 
 
